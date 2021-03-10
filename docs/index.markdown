@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Caltrans SSD Threat Intelligence Sharing"
 ---
-# Test
+## About
 
 This is the first line of the index
