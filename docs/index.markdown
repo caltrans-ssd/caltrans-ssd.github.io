@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Test
+
+This is the first line of the index
