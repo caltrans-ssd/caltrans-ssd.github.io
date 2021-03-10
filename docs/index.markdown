@@ -4,7 +4,6 @@
 
 layout: home
 title: "Caltrans SSD Threat Intelligence Sharing"
-theme: jekyll-theme-hacker
 ---
 ## Theat Intelligence Sharing
 
