@@ -17,8 +17,8 @@ This intelligence comes from a variety of sources:
 
 This information will include URLs, domains, and IP addresses identified by the Departments security team through the above mentioned analysis
 
-The list of URLs is located [here](urls.txt)
+The list of URLs is located [here](https://raw.githubusercontent.com/caltrans-ssd/caltrans-ssd.github.io/main/docs/urls.txt)
 
-The list of Domains is located [here](domains.txt)
+The list of Domains is located [here](https://raw.githubusercontent.com/caltrans-ssd/caltrans-ssd.github.io/main/docs/domains.txt)
 
 The list of IPv4 addresses is located [here](https://raw.githubusercontent.com/caltrans-ssd/caltrans-ssd.github.io/main/docs/ipv4.txt)
