@@ -21,4 +21,4 @@ The list of URLs is located [here](urls.txt)
 
 The list of Domains is located [here](domains.txt)
 
-The list of IPv4 addresses is located [here](ipv4.txt)
+The list of IPv4 addresses is located [here](ipv4.html)
