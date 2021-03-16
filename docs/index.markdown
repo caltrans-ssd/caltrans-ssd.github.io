@@ -21,4 +21,4 @@ The list of URLs is located [here](urls.txt)
 
 The list of Domains is located [here](domains.txt)
 
-The list of IPv4 addresses is located [here](ipv4.html)
+The list of IPv4 addresses is located [here](https://raw.githubusercontent.com/caltrans-ssd/caltrans-ssd.github.io/main/docs/ipv4.txt)
